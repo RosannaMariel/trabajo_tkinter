@@ -2,7 +2,7 @@
 
 # Lista de Tareas con Tkinter
 
-Aplicación simple creada en Python usando Tkinter. Permite gestionar una pequeña lista de tareas donde el usuario puede:
+Aplicación creada en Python usando Tkinter. Permite gestionar una pequeña lista de tareas donde el usuario puede:
 
 * Ingresar una tarea mediante un campo de texto.
 * Seleccionar una categoría desde un menú desplegable.

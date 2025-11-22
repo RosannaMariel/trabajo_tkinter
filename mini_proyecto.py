@@ -16,7 +16,7 @@ reloj.place(relx=1.0, y=10, anchor='ne')  # esquina superior derecha
 actualizar_hora()
 
 ### Título ###
-titulo = tk.Label(ventana, text='Esta es una lista de tareas', font=('Arial', 12, 'bold'))
+titulo = tk.Label(ventana, text='Ingrese una tarea', font=('Arial', 12, 'bold'))
 titulo.pack(pady=(10, 5))
 
 ### Campo de entrada ###
